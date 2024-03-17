@@ -5,7 +5,7 @@
 <br>
 <div>
   <a href="https://github.com/m-ruhtra"></a>
-  <img height="180cm" src="https://github-redme-stats.vercel.app/api?username=m-ruhtra&show_icons=true&theme=dark&count_private=false"/>
+  <img height="180cm" src="https://github-redme-stats.vercel.app/api?username=m-ruhtra&show_icons=true&theme=dark&count_private=true"/>
   <img height="180cm" src="https://github-redme-stats.vercel.app/api/top-langs/?username=m-ruhtra&layout=compact&theme=dark"/>
 </div>
 
